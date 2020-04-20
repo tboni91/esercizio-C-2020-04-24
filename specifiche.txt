@@ -1,1 +1,12 @@
 ...
+scrivere un programma in C che svolga i seguenti passi:
+
+il processo padre crea un file output.txt (se il file esiste già, va troncato a zero e sovrascritto)
+
+il processo padre crea un processo figlio
+
+il processo padre scrive la prima metà del file
+
+il processo figlio scrive l'altra metà del file e poi termina
+
+il processo padre attende la conclusione del processo figlio e poi termina
