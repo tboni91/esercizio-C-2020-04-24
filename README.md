@@ -1,4 +1,4 @@
-# esercizio-C-2020-04-21
+# esercizio-C-2020-04-24
 
 Le specifiche dell'esercizio si trovano nel file 'specifiche.txt'.
 
