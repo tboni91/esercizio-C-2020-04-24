@@ -1,5 +1,4 @@
-...
-scrivere un programma in C che svolga i seguenti passi:
+scrivere un programma in C:
 
 il processo padre crea un file output.txt (se il file esiste già, va troncato a zero e sovrascritto)
 
