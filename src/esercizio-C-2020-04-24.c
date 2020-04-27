@@ -3,10 +3,7 @@
  *
  *  Created on: 24 apr 2020
  *      Author: utente
-/
-*/
 
-/*
 scrivere un programma in C:
 
 è data la stringa di caratteri:
