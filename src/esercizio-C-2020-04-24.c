@@ -3,9 +3,10 @@
  *
  *  Created on: 24 apr 2020
  *      Author: utente
- *
- *
- *
+/
+*/
+
+/*
 scrivere un programma in C:
 
 è data la stringa di caratteri:
@@ -23,7 +24,7 @@ il processo padre scrive la prima metà di text_to_write nel file, cominciando a
 il processo figlio scrive l'altra metà di text_to_write del file, cominciando a scrivere da dove il processo padre ha terminato di scrivere.
 
 il processo padre attende la conclusione del processo figlio e poi termina.
- *
+
  */
 
 #include <unistd.h>
